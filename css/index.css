@@ -2434,9 +2434,9 @@ _:future,
   z-index: 90;
   padding: 10px 36px;
   width: 100%;
-  height: 58px;
+  height: 75px;
   border: none;
-  font-size: 18px;
+  font-size: 25px;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   filter: alpha(opacity=0);
@@ -2468,7 +2468,7 @@ _:future,
 }
 #nav.fixed {
   position: fixed;
-  top: -60px;
+  top: -75px;
   z-index: 91;
   background: rgba(255,255,255,0.8);
   -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0.6);
@@ -2516,7 +2516,7 @@ _:future,
 #nav .menus_items .menus_item {
   position: relative;
   display: inline-block;
-  padding: 0 0 0 0.7rem;
+  padding: 0 0 0 1rem;
 }
 #nav .menus_items .menus_item:hover .menus_item_child {
   display: block;
@@ -2604,7 +2604,7 @@ _:future,
   position: relative;
   padding-bottom: 0.3rem;
   text-shadow: 0.05rem 0.05rem 0.1rem rgba(0,0,0,0.3);
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   cursor: pointer;
 }
 @media screen and (min-width: 768px) {
